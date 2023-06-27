@@ -1,0 +1,88 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0396599",
+    "http://schema.org/name": "Ruth Haight Green"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0532074",
+    "http://schema.org/name": "University of California, Berkeley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801569",
+    "http://schema.org/name": "Agriculture--Marketing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0861999",
+    "http://schema.org/name": "Citrus fruit industry"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1010167",
+    "http://schema.org/name": "Marketing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1161597",
+    "http://schema.org/name": "Universities and colleges"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1171955",
+    "http://schema.org/name": "Water resources development"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1198486",
+    "http://schema.org/name": "Dams"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205542",
+    "http://schema.org/name": "California--Sacramento"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205614",
+    "http://schema.org/name": "Argentina"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205805",
+    "http://schema.org/name": "Cuba"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1229965",
+    "http://schema.org/name": "California--Winters"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1242402",
+    "http://schema.org/name": "California--San Gabriel Mountains"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1275263",
+    "http://schema.org/name": "California--Salinas River Valley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1334024",
+    "http://schema.org/name": "United States--Lake Tahoe"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1651004",
+    "http://schema.org/name": "Fancher Creek Nurseries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1692637",
+    "http://schema.org/name": "California, Northern"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1810812",
+    "http://schema.org/name": "California. Department of Agriculture"
+  }
+]

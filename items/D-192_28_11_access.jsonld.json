@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D-192_28_11_access.HD.mov"
+  },
+  "schema:creator": "Greene, Henry Dart",
+  "schema:datePublished": "1947",
+  "schema:description": "This color film contains footage of crates of Rock Bird oranges being packed. The second part of the film shows lug boxes labelled “Sunkist” being loaded onto the back of a flatbed truck. (Video only)",
+  "schema:identifier": [
+    "D-192, Box:28, Folder:11",
+    "ark:/87293/d30q3t"
+  ],
+  "schema:image": {
+    "@id": "@base:/D-192_28_11_access588.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Packing crates of oranges, circa 1947"
+}

@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D192_7_109.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1930"
+  },
+  "schema:identifier": [
+    "ark:/87293/d37481",
+    "D-192, Box:7, Folder:109"
+  ],
+  "schema:image": {
+    "@id": "@base:/D192_7_109.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "Negative only",
+  "schema:name": "Photo album p. 61, Henry D. Greene's 30th Birthday party at the Greene's home in Cipolletti. Ruth 3rd from right, and Henry, far right, first row",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

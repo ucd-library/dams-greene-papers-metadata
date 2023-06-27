@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D-192_28_3_access.HD.mov"
+  },
+  "schema:creator": "Greene, Henry Dart",
+  "schema:datePublished": "1935",
+  "schema:description": "This film, taken in 1935, begins with footage of auction markets, likely on the East Coast. Boxes of Florida oranges and grapefruits can be seen along with other produce. At 1:11 the footage shifts to Greene’s visit to Cuba. Included in this portion are moving images of Havana, its buildings, streets, and people, along with views of the countryside and possibly a store with a number of people in front of it. (Video only)",
+  "schema:identifier": [
+    "D-192, Box:28, Folder:3",
+    "ark:/87293/d3cx05"
+  ],
+  "schema:image": {
+    "@id": "@base:/D-192_28_3_access0621.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Fruit and produce auctions & visit to Cuba, 1935"
+}

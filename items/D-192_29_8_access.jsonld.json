@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D-192_29_8_access.HD.mov"
+  },
+  "schema:creator": "Greene, Henry Dart",
+  "schema:datePublished": "1945",
+  "schema:description": "This color film contains footage possibly taken between San Luis Obispo and San Miguel in the Salinas Valley of California. The moving images include: orchards, cars on a highway, cattle,  mountain ranges, and planted fields. (Video only)",
+  "schema:identifier": [
+    "ark:/87293/d3vx0h",
+    "D-192, Box:29, Folder:8"
+  ],
+  "schema:image": {
+    "@id": "@base:/D-192_29_8_access352.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Salinas Valley, California, circa 1945"
+}

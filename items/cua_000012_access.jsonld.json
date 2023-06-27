@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/cua_000012_access.mp4"
+  },
+  "schema:creator": "Greene, Henry Dart",
+  "schema:datePublished": "1936",
+  "schema:description": "The film shows men and women packing pears at the Sacramento River Association. There are also scenes of pears being loaded onto the Pacific Fruit Express. Lug labels for the following brands can be seen: American Beauty, Capital Pak, Gold Crest, River Boy, and Royal Gold. Three quarters of the way through the film, the location changes to Nevada County. Footage includes an area several miles outside of Red Dog and You Bet. The film ends with scenes of the Nevada County Narrow Gauge Railroad.",
+  "schema:identifier": [
+    "ark:/87293/d3p783",
+    "D-192, Box:28, Folder:8"
+  ],
+  "schema:image": {
+    "@id": "@base:/cua_000012_access007.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Sacramento River Association and Nevada County, Calif.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

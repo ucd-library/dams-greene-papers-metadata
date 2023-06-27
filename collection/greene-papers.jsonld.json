@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabels": {
+    "@id": "@base:/labels"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:description": "This digital collection contains selections of films and photographs from the Henry Dart Greene Papers. The complete collection of Greene's papers contains photographs, motion picture films and a limited amount of personal and business papers. \n\nThe photographs are a mix of personal and professional subjects. Greene's years at the University of California, Berkeley and photographs of his wife Ruth Haight Greene's childhood in Sacramento are the earliest photographs in the collection. The collection also includes images from Argentina, where Greene worked with the Argentine Fruit Distributors from 1928 to 1931. \n\nThe ten films presented here are a selection from the fifty four 16mm films in the collection. These films include footage of the site of the Oroville Dam, the Feather River Project, fruit packing, and a 1935 trip to Cuba. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/).",
+  "schema:identifier": "D-192",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3f197/D192_6_073.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Greene, Henry Dart Papers",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}
