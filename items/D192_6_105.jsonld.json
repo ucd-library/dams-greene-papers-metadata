@@ -23,7 +23,7 @@
     "ark:/87293/d3948n"
   ],
   "schema:image": {
-    "@id": "@base:/D192_6_105.jpg"
+    "@id": "@base:/D192_6_105.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"

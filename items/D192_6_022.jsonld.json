@@ -27,7 +27,7 @@
     "ark:/87293/d3147s"
   ],
   "schema:image": {
-    "@id": "@base:/D192_6_022.jpg"
+    "@id": "@base:/D192_6_022.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"

@@ -23,7 +23,7 @@
     "D-192, Box:6, Folder:245"
   ],
   "schema:image": {
-    "@id": "@base:/D192_6_245.jpg"
+    "@id": "@base:/D192_6_245.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"

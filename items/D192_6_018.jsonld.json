@@ -27,7 +27,7 @@
     "D-192, Box:6, Folder:18"
   ],
   "schema:image": {
-    "@id": "@base:/D192_6_018.jpg"
+    "@id": "@base:/D192_6_018.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
