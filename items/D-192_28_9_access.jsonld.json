@@ -26,9 +26,6 @@
   "schema:image": {
     "@id": "@base:/D-192_28_9_access0239.jpg"
   },
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt4w1032bf/"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
