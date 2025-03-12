@@ -14,7 +14,7 @@
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": {
+  "schema:image": {
     "@id": "@base:../cua_00003_access006.jpg"
   },
   "ebucore:filename": "cua_00003_access.mp4",

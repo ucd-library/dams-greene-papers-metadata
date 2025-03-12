@@ -14,8 +14,8 @@
     "schema:CreativeWork",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:/..D-192_28_3_access0621.jpg"
+  "schema:image": {
+    "@id": "@base:../D-192_28_3_access0621.jpg"
   },
   "ebucore:filename": "D-192_28_3_access.HD.mov",
   "ebucore:hasMimeType": "video/quicktime"

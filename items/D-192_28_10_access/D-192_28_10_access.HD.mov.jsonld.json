@@ -14,7 +14,7 @@
     "schema:VideoObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:associatedMedia": {
+  "schema:image": {
     "@id": "@base:../D-192_28_10_access223.jpg"
   },
   "ebucore:filename": "D-192_28_10_access.HD.mov",
